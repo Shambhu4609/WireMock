@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/groovy-all-3.0.5-groovydoc.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/groovy-json-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/groovy-xml-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/hamcrest-core-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/hamcrest-library-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/httpclient-4.5.12.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/httpmime-4.5.12.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/slf4j-simple-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/WireMock/WireMock/lib/wiremock-standalone-2.27.1.jar"/>
+	<classpathentry kind="lib" path="lib/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
